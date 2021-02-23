@@ -7,7 +7,7 @@ wflow_publish(c("analysis/index.Rmd", "analysis/overview.Rmd", "analysis/disease
                 "analysis/slide.Rmd", "analysis/materials.Rmd", "analysis/license.Rmd"),
               "Publish the initial files for my project")
 wflow_status()
-wflow_use_github("decidelab")
+wflow_use_github("DECIDElab")
 wflow_git_push()
 
 
