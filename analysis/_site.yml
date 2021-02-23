@@ -1,17 +1,23 @@
-name: "DTHBTN"
+name: DTHBTN
 output_dir: ../docs
 navbar:
-  title: "DTHBTN"
+  title: Dịch tễ học Bệnh truyền nhiễm
   left:
-  - text: Home
+  - text: Giới thiệu
     href: index.html
-  - text: About
-    href: about.html
+  - text: Tổng quan
+    href: overview.html
+  - text: Bệnh
+    href: disease.html
   - text: License
     href: license.html
+  right:
+  - icon: fa-github
+    text: Source code
+    href: https://github.com/decidelab/DTHBTN
 output:
   workflowr::wflow_html:
     toc: yes
     toc_float: yes
-    theme: cosmo
+    theme: cerulean
     highlight: textmate
