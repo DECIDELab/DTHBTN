@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Bệnh lây qua đường tiêu hoá
 
-* Bệnh lây qua đường tiêu hoá
+* [Dịch tễ học bệnh lây qua đường tiêu hoá](https://decidelab.github.io/DTHBTN/DTHBTN_BenhDuongTieuHoa.html)
 * Bệnh tả
 * Bệnh bại liệt
 * Bệnh thương hàn
@@ -42,7 +42,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Bệnh lây qua vecto
 
-* Bệnh lây qua vecto
+* [Dịch tễ học bệnh lây qua vectơ](https://decidelab.github.io/DTHBTN/DTHBTN_BenhLayQuaVecto.html)
 * Sốt dengue
 * Sốt rét
 

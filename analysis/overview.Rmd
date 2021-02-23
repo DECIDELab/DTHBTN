@@ -16,6 +16,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Các khái niệm cơ bản
 
+* [Dịch tễ học bệnh truyền nhiễm](https://decidelab.github.io/DTHBTN/DTHBTN_BenhTruyenNhiem.html)
+
 ## Lịch sử
 
 ## Động học bệnh truyền nhiễm

@@ -11,8 +11,15 @@ output:
 
 ## Cử nhân Y tế công cộng
 
+* [Bệnh và Sự xuất hiện Dịch](https://decidelab.github.io/DTHBTN/slides/Slide_DTHCB_BenhDich.html)
+* [Bệnh lây qua đường tiêu hoá](https://decidelab.github.io/DTHBTN/slides/Slide_DTHBTN_BTH.html)
+* [Bệnh lây qua vectơ](https://decidelab.github.io/DTHBTN/slides/Slide_DTHBTN_BV.html)
+* [Bệnh lây qua đường hô hấp](https://decidelab.github.io/DTHBTN/slides/Slide_DTHBTN_BHH.html)
+
 ## Bác sĩ y học dự phòng
 
 ## Bác sĩ đa khoa
+
+## Điều dưỡng - Kỹ thuật y học - Vật lý trị liệu
 
 ## Sau đại học
