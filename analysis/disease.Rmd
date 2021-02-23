@@ -1,0 +1,54 @@
+---
+title: "Dịch tễ học các bệnh truyền nhiễm cụ thể"
+author: "Phùng Khánh Lâm"
+date: " 2021-02- (cập nhật: `r Sys.Date()`)"
+output:
+    html_document:
+      theme: cerulean
+      toc: yes
+      toc_float: yes
+bibliography: reference.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Bệnh lây qua đường hô hấp
+
+* Bệnh lây qua đường hô hấp
+* Bệnh nhiễm trùng mới nổi
+* Bệnh lao
+* Bệnh SARS
+* Bệnh COVID-19
+
+## Bệnh lây qua đường tiêu hoá
+
+* Bệnh lây qua đường tiêu hoá
+* Bệnh tả
+* Bệnh bại liệt
+* Bệnh thương hàn
+* Ngộ độc thực phẩm
+
+## Bệnh lây qua đường da niêm
+
+* Bệnh lây qua đường da niêm
+
+## Bệnh lây qua đường máu
+
+* Bệnh lây qua đường máu
+* HIV/AIDS
+* Viêm gan siêu vi B
+
+## Bệnh lây qua vecto
+
+* Bệnh lây qua vecto
+* Sốt dengue
+* Sốt rét
+
+## Bệnh nhiễm trùng cơ hội
+
+* Cryptococcus
+* Teleromcosis
+
+## Tài liệu tham khảo

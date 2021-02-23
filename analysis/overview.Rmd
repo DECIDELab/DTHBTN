@@ -1,0 +1,55 @@
+---
+title: "Tổng quan"
+author: "Phùng Khánh Lâm"
+date: " 2021-02- (cập nhật: `r Sys.Date()`)"
+output:
+    html_document:
+      theme: cerulean
+      toc: yes
+      toc_float: yes
+bibliography: reference.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Các khái niệm cơ bản
+
+## Lịch sử
+
+## Động học bệnh truyền nhiễm
+
+### Sự xuất hiện của bệnh truyền nhiễm
+
+* Sự xuất hiện của bệnh truyền nhiễm
+* Bệnh nhiễm trùng mới nổi
+
+### Diễn tiến tự nhiên
+
+* Diễn tiến tự nhiên
+
+### Sự lây truyền của bệnh truyền nhiễm
+
+* Sự lây truyền của bệnh truyền nhiễm
+
+### Dịch bệnh
+
+* Dịch bệnh
+
+### Biện pháp kiểm soát
+
+* Biện pháp kiểm soát 
+* Điều tra dịch
+* Dập dịch
+* Truy vết
+* Chủng ngừa
+* Giám sát
+* Đánh giá nguy cơ
+
+## Phương pháp nghiên cứu
+
+* Thiết kế nghiên cứu dịch tễ học
+* Nghiên cứu bằng mô hình toán học
+
+## Tài liệu tham khảo

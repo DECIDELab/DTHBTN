@@ -1,11 +1,20 @@
 ---
-title: "Home"
+title: "Giới thiệu"
 site: workflowr::wflow_site
 output:
   workflowr::wflow_html:
-    toc: false
+    toc: true
+    toc_float: true
 editor_options:
   chunk_output_type: console
 ---
 
-Welcome to my research website.
+Chào mừng bạn đến với trang web về Dịch tễ học Bệnh truyền nhiễm.
+
+## Mục đích
+
+## Nội dung
+
+## Phản hồi
+
+
