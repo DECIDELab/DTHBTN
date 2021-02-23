@@ -18,7 +18,7 @@ navbar:
   right:
   - icon: fa-github
     text: Source code
-    href: https://github.com/decidelab/DTHBTN
+    href: https://github.com/DECIDElab/DTHBTN
 output:
   workflowr::wflow_html:
     toc: yes
