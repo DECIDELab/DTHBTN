@@ -9,6 +9,10 @@ navbar:
     href: overview.html
   - text: Bệnh
     href: disease.html
+  - text: Slide
+    href: slide.html
+  - text: Tài liệu
+    href: materials.html
   - text: License
     href: license.html
   right:
