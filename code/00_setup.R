@@ -23,4 +23,5 @@ wflow_publish(c("analysis/overview.Rmd", "analysis/disease.Rmd", "analysis/slide
 # 2021-02-26 --------------------------------------------------------------
 
 wflow_publish(c("analysis/slide.Rmd"), "Add slides for YHDP")
+wflow_publish(c("analysis/slide.Rmd"), "Add slides for LTDD19")
 
