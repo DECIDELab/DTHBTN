@@ -19,3 +19,8 @@ wflow_publish(c("analysis/overview.Rmd", "analysis/disease.Rmd", "analysis/slide
                 "analysis/DTHBTN_BenhLayQuaVecto.Rmd"),
               "Add current stuffs")
 
+
+# 2021-02-26 --------------------------------------------------------------
+
+wflow_publish(c("analysis/slide.Rmd"), "Add slides for YHDP")
+
