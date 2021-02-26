@@ -18,6 +18,12 @@ output:
 
 ## Bác sĩ y học dự phòng
 
+* [Bệnh lây qua đường tiêu hoá](https://decidelab.github.io/DTHBTN/slides/Slide_DTHBTN_BTH_20210121.html)
+* [Bệnh lây qua đường hô hấp](https://decidelab.github.io/DTHBTN/slides/Slide_DTHBTN_BHH.html)
+* [Bệnh lây qua vectơ](https://decidelab.github.io/DTHBTN/slides/Slide_DTHBTN_BV_YHDP_20210226.html)
+* [Bệnh nhiễm trùng mới nổi](https://decidelab.github.io/DTHBTN/slides/Slide_DTHBTN_EID_YHDP_20210226.html)
+
+
 ## Bác sĩ đa khoa
 
 ## Điều dưỡng - Kỹ thuật y học - Vật lý trị liệu
